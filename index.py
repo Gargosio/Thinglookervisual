@@ -22,7 +22,7 @@ from dash.dependencies import Input, Output
 
 ################
 rc = redis.Redis(
-    host="redis-15365.c277.us-east-1-3.ec2.cloud.redislabs.com",
+    host=**********************************,
     charset="utf-8",
     decode_responses=True,
     port=15365,
